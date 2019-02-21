@@ -1,0 +1,15 @@
+C:\Users\Ильяс Сабитов\source\WpfApp1\WebBrowserWpfApp\bin\Debug\WebBrowserWpfApp.exe.config
+C:\Users\Ильяс Сабитов\source\WpfApp1\WebBrowserWpfApp\bin\Debug\WebBrowserWpfApp.exe
+C:\Users\Ильяс Сабитов\source\WpfApp1\WebBrowserWpfApp\bin\Debug\WebBrowserWpfApp.pdb
+C:\Users\Ильяс Сабитов\source\WpfApp1\WebBrowserWpfApp\obj\Debug\WebBrowserWpfApp.csprojResolveAssemblyReference.cache
+C:\Users\Ильяс Сабитов\source\WpfApp1\WebBrowserWpfApp\obj\Debug\Page1.g.cs
+C:\Users\Ильяс Сабитов\source\WpfApp1\WebBrowserWpfApp\obj\Debug\App.g.cs
+C:\Users\Ильяс Сабитов\source\WpfApp1\WebBrowserWpfApp\obj\Debug\WebBrowserWpfApp_MarkupCompile.cache
+C:\Users\Ильяс Сабитов\source\WpfApp1\WebBrowserWpfApp\obj\Debug\WebBrowserWpfApp_MarkupCompile.lref
+C:\Users\Ильяс Сабитов\source\WpfApp1\WebBrowserWpfApp\obj\Debug\Page1.baml
+C:\Users\Ильяс Сабитов\source\WpfApp1\WebBrowserWpfApp\obj\Debug\WebBrowserWpfApp.g.resources
+C:\Users\Ильяс Сабитов\source\WpfApp1\WebBrowserWpfApp\obj\Debug\WebBrowserWpfApp.Properties.Resources.resources
+C:\Users\Ильяс Сабитов\source\WpfApp1\WebBrowserWpfApp\obj\Debug\WebBrowserWpfApp.csproj.GenerateResource.Cache
+C:\Users\Ильяс Сабитов\source\WpfApp1\WebBrowserWpfApp\obj\Debug\WebBrowserWpfApp.csproj.CoreCompileInputs.cache
+C:\Users\Ильяс Сабитов\source\WpfApp1\WebBrowserWpfApp\obj\Debug\WebBrowserWpfApp.exe
+C:\Users\Ильяс Сабитов\source\WpfApp1\WebBrowserWpfApp\obj\Debug\WebBrowserWpfApp.pdb

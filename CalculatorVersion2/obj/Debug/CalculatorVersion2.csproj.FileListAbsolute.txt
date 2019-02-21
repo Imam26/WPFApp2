@@ -1,0 +1,15 @@
+C:\Users\Ильяс Сабитов\source\WpfApp1\CalculatorVersion2\bin\Debug\CalculatorVersion2.exe.config
+C:\Users\Ильяс Сабитов\source\WpfApp1\CalculatorVersion2\bin\Debug\CalculatorVersion2.exe
+C:\Users\Ильяс Сабитов\source\WpfApp1\CalculatorVersion2\bin\Debug\CalculatorVersion2.pdb
+C:\Users\Ильяс Сабитов\source\WpfApp1\CalculatorVersion2\obj\Debug\CalculatorVersion2.csprojResolveAssemblyReference.cache
+C:\Users\Ильяс Сабитов\source\WpfApp1\CalculatorVersion2\obj\Debug\MainWindow.g.cs
+C:\Users\Ильяс Сабитов\source\WpfApp1\CalculatorVersion2\obj\Debug\App.g.cs
+C:\Users\Ильяс Сабитов\source\WpfApp1\CalculatorVersion2\obj\Debug\CalculatorVersion2_MarkupCompile.cache
+C:\Users\Ильяс Сабитов\source\WpfApp1\CalculatorVersion2\obj\Debug\CalculatorVersion2_MarkupCompile.lref
+C:\Users\Ильяс Сабитов\source\WpfApp1\CalculatorVersion2\obj\Debug\MainWindow.baml
+C:\Users\Ильяс Сабитов\source\WpfApp1\CalculatorVersion2\obj\Debug\CalculatorVersion2.g.resources
+C:\Users\Ильяс Сабитов\source\WpfApp1\CalculatorVersion2\obj\Debug\CalculatorVersion2.Properties.Resources.resources
+C:\Users\Ильяс Сабитов\source\WpfApp1\CalculatorVersion2\obj\Debug\CalculatorVersion2.csproj.GenerateResource.Cache
+C:\Users\Ильяс Сабитов\source\WpfApp1\CalculatorVersion2\obj\Debug\CalculatorVersion2.csproj.CoreCompileInputs.cache
+C:\Users\Ильяс Сабитов\source\WpfApp1\CalculatorVersion2\obj\Debug\CalculatorVersion2.exe
+C:\Users\Ильяс Сабитов\source\WpfApp1\CalculatorVersion2\obj\Debug\CalculatorVersion2.pdb
